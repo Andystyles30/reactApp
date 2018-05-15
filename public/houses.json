@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "address": "12 Valley of the kings, Geneva",
+        "country": "Switzerland",
+        "description": "A superb detached Victorian property",
+        "price": 900000,
+        "photo": "277667"
+    },
+    {
+        "id": 2,
+        "address": "14 Valley of the kings, Geneva",
+        "country": "The Netherlands",
+        "description": "A superb detached Victorian property",
+        "price": 1200000,
+        "photo": "277668"
+    }
+]
